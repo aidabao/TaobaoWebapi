@@ -1,0 +1,9 @@
+E:\MyProject\TaoBaoWebApi\TaoBao.Common\bin\Release\netstandard2.0\TaoBao.Common.deps.json
+E:\MyProject\TaoBaoWebApi\TaoBao.Common\bin\Release\netstandard2.0\TaoBao.Common.dll
+E:\MyProject\TaoBaoWebApi\TaoBao.Common\bin\Release\netstandard2.0\TaoBao.Common.pdb
+E:\MyProject\TaoBaoWebApi\TaoBao.Common\obj\Release\netstandard2.0\TaoBao.Common.csprojAssemblyReference.cache
+E:\MyProject\TaoBaoWebApi\TaoBao.Common\obj\Release\netstandard2.0\TaoBao.Common.AssemblyInfoInputs.cache
+E:\MyProject\TaoBaoWebApi\TaoBao.Common\obj\Release\netstandard2.0\TaoBao.Common.AssemblyInfo.cs
+E:\MyProject\TaoBaoWebApi\TaoBao.Common\obj\Release\netstandard2.0\TaoBao.Common.csproj.CoreCompileInputs.cache
+E:\MyProject\TaoBaoWebApi\TaoBao.Common\obj\Release\netstandard2.0\TaoBao.Common.dll
+E:\MyProject\TaoBaoWebApi\TaoBao.Common\obj\Release\netstandard2.0\TaoBao.Common.pdb

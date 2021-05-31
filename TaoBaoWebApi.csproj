@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>125ce18f-9cc2-489c-b1af-85bd339f3f4d</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="TaoBao.Common\**" />
+    <Content Remove="TaoBao.Common\**" />
+    <EmbeddedResource Remove="TaoBao.Common\**" />
+    <None Remove="TaoBao.Common\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Nancy" Version="2.0.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.1.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="TaoBao.Common\TaoBao.Common.csproj" />
+  </ItemGroup>
+
+
+</Project>
